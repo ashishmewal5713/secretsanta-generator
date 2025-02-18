@@ -69,6 +69,3 @@ A small summary of the skills showcased during this project: :small_red_triangle
 * Web application debugging
 * Where Santa lives
 * More! :)
-# Secret Santa Generator 
-This is a test update for GitHub commit.
-hi hi hi 
